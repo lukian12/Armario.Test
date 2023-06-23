@@ -1,0 +1,27 @@
+{
+  "armario": [
+    {
+      "estado": "ocupado",
+      "nomeArmario": "Armario1<br>estado:<br>ocupado<br>cor:<br>chocolate"
+    },
+    {
+      "estado": "desocupado",
+      "nomeArmario": "Armario2<br>estado:<br>desocupado<br>cor:<br>azul"
+    },
+    {
+      "estado": "manutençao",
+      "nomeArmario": "Armario3<br>estado:<br>manutençao<br>cor:<br>dourada"
+      
+    },
+    {
+      "estado": "desocupado",
+      "nomeArmario": "Armario4<br>estado:<br>desocupado<br>cor:<br>azul"
+      
+    },
+    {
+      "estado": "ocupado",
+      "nomeArmario": "Armario5<br>estado:<br>ocupado<br>cor:<br>chocolate"
+    }
+   
+  ]
+}
